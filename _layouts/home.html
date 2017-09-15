@@ -1,20 +1,28 @@
-<!doctype html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head>
-{% include head.html %}
-  </head>
-  <body>
-    <section>
-      <h1>{{ page.title | default: site.title }}</h1>
-      {{ content }}
-    </section>
+---
+layout: default
+---
+
+<div class="home">
+
+  {{ content }}
+
+  <h1 class="page-heading">Posts</h1>
+  
+  <ul class="post-list">
     {% for post in site.posts %}
-    <article>
-      {% include post.html %}
-    </article>
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        <h3 class="post-meta">Presented on {{ post.date | date: "%b %-d, %Y" }} by {{ post.author }}</h3>
+        {{ post.content }}
+      </li>
     {% endfor %}
-    <footer>
-{% include footer.html %}
-    </footer>
-  </body>
-</html>
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
