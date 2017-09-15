@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+{% include head.html %}
+  </head>
+  <body>
+    <article>
+      <h1>{{ page.title | default: site.title }}</h1>
+      {{ content }}
+    </article>
+    <footer>
+      <p><a href="/">Return home</a></p>
+{% include footer.html %}
+    </footer>
+  </body>
+</html>

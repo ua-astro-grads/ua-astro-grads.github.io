@@ -1,0 +1,7 @@
+article, aside, nav, section, footer {
+  margin: 1rem;
+}
+
+footer {
+  font-style: italic;
+}
