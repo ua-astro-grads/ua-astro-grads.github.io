@@ -10,15 +10,16 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li class="post-content">
+      <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        <h3 class="post-meta">Presented on {{ post.date | date: "%b %-d, %Y" }} by {{ post.author }}</h3>
-        {{ post.content }}
+        <div class="post-content">
+          <h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h2>
+          <h3 class="post-meta">Presented on {{ post.date | date: "%b %-d, %Y" }} by {{ post.author }}</h3>
+          {{ post.content }}
+        </div>
       </li>
     {% endfor %}
   </ul>
