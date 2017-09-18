@@ -5,3 +5,8 @@ article, aside, nav, section, footer {
 footer {
   font-style: italic;
 }
+
+h4 {
+  font-style: italic;
+  font-size: 1.1em;
+}
