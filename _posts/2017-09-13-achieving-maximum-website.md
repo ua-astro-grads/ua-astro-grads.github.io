@@ -3,7 +3,7 @@ author: Joseph Long
 title: "Achieving maximum website"
 ---
 
-Slides (PDF): [Download]({{ site.url }}/downloads/2017-18/achieving-maximum-website.pdf)
+Slides (PDF): [Download]({{ site.github.url }}/downloads/2017-18/achieving-maximum-website.pdf)
 
 ### Resources
 
