@@ -6,7 +6,7 @@ Whenever you commit and push to this repository, GitHub Pages will run [Jekyll](
 
 ## Posting your talk materials
 
-To make a new post, you will need to [fork](https://github.com/ua-astro-grads/code-coffee/fork) a copy of `ua-astro-grads/code-coffee` to your GitHub account, clone it, commit and push your changes with `git`, and [open a pull request](https://help.github.com/articles/creating-a-pull-request/). Ask any of the organizers if you want help!
+To make a new post, you will need to [fork](https://github.com/ua-astro-grads/code-coffee/fork) a copy of `ua-astro-grads/code-coffee` to your GitHub account, clone it, commit and push your changes with `git`, and [open a pull request](https://help.github.com/articles/creating-a-pull-request/). The steps are described here, but you can always ask any of the organizers if you want help!
 
 ### Writing your post
 
