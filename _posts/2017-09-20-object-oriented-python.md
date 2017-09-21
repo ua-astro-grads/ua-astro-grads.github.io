@@ -1,5 +1,5 @@
 ---
-author: Samuel Wyatt: Giver, Lover, Friend
+author: "Samuel Wyatt: Giver, Lover, Friend"
 title: "Object Oriented Programming in Python"
 ---
 
