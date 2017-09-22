@@ -3,18 +3,29 @@ layout: default
 ---
 <div class="home">
 
+  <style type="text/css" media="screen">
+    .post-list .post-content h1, h2, h3, h4, h5 {
+      font-weight: bold;
+    }
+    .post-list .post-content h1 { font-size: 22px; }
+    .post-list .post-content h2 { font-size: 20px; }
+    .post-list .post-content h3 { font-size: 18px; }
+    .post-list .post-content h4 { font-size: 16px; }
+    .post-list .post-content h5 { font-size: 14px; }
+  </style>
+
   {{ content }}
 
-  <h1 class="page-heading">Previous presentations</h1>
+  <hr style="border: none; border-top: 1px solid #333; margin: 2rem auto; width: 20rem; height: 1px;">
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <h2>
+        <h1>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        <h3 class="post-meta">by {{ post.author }} &bull; {{ post.date | date: "%b %-d, %Y" }}</h3>
+        </h1>
+        <h2 class="post-meta">by {{ post.author }} &bull; {{ post.date | date: "%b %-d, %Y" }}</h2>
         <div class="post-content">
           {{ post.content }}
         </div>

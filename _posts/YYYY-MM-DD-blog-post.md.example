@@ -1,0 +1,28 @@
+---
+author: "Your Name Here"
+title: "Your Talk Title Here"
+---
+
+## Section Heading
+
+Lorem ipsum dolor sit amet
+
+### Subsection heading
+
+**Bold** and _Italic_ and `Code` text
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+#### Subsubsection heading
+
+Make your links by filling in the [clickable text](http://and/the/url)
+
+Images have "alternate text", between the square brackets, for the visually impaired. Otherwise, their syntax is very similar.
+
+![Image alt text](http://url/to/image)
+
+If you have slides or other downloads, put them in the downloads folder and link to them [like this](/downloads/2017/yourname-talk-slides.pdf).

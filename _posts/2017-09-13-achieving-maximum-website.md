@@ -1,5 +1,5 @@
 ---
-author: Joseph Long
+author: "Joseph Long"
 title: "Achieving maximum website"
 ---
 
