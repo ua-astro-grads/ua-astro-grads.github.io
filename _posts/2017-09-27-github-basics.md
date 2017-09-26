@@ -14,7 +14,7 @@ the following topics:
 - How to do forks and pull requests.
 
 
- Here are the [slides](/downloads/2017/github_hands_on.pdf)!
+ Here are the [slides](/downloads/2017-18/github_hands_on.pdf)!
 
 
 Feel free to email as at:
