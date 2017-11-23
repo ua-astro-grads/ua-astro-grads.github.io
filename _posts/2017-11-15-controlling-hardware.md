@@ -3,11 +3,11 @@ author: "Craig Kulesa"
 title: "Real Programmers Debug with Fire Extinguishers"
 ---
 
-Talk slides [are available here](/downloads/2017-18/kulesa-hardware-slides.pdf).   A hands-on session with example hardware is offered on 11/29; email Craig if you're interested.  
+Talk slides [are available here](/downloads/2017-18/kulesa-hardware-slides.pdf).   A hands-on session with example hardware is offered on 11/29/2017; email Craig (ckulesa@email...) if you're interested.  
 
 ## Resources
 
-For your amusement, the Antarctic observatory used as an example in the talk is [HEAT](http://soral.as.arizona.edu/heat/)
+The Antarctic observatory used as an example in the talk is the [High Elevation Antarctic Terahertz (HEAT) telescope](http://soral.as.arizona.edu/heat/) at Ridge A. 
 
 Go build something and control it with software.  [Sparkfun](https://www.sparkfun.com/) and [Adafruit](https://www.adafruit.com/) have a lot of good resources and some nifty development boards to get you started.
 
