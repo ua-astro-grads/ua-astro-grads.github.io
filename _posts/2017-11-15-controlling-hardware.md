@@ -3,7 +3,7 @@ author: "Craig Kulesa"
 title: "Real Programmers Debug with Fire Extinguishers"
 ---
 
-Talk slides [are available here](/downloads/2017-18/kulesa-hardware-slides.pdf).   A hands-on session with real hardware is offered on 11/29/2017 during the normal Code Coffee time slot; email Craig (ckulesa@email...) if you're interested.  
+Talk slides [are available here](/downloads/2017-18/kulesa-hardware-slides.pdf).   A hands-on session with real hardware is offered during the normal Code Coffee time slot (maybe 11/29 or 12/6); email Craig (ckulesa@email...) if you're interested.  
 
 ## Resources
 
