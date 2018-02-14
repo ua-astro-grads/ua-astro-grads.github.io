@@ -7,6 +7,9 @@ build:
 push:
 	docker push $(hub_id)/astroml
 
+run:
+	docker run -it --rm -v `pwd`:/root $(hub_id)/astroml \
+		./plot_spectrum_sum_of_norms.py
 bash:
 	docker run -it --rm -v `pwd`:/root $(hub_id)/astroml bash
 
