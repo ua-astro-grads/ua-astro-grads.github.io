@@ -14,4 +14,21 @@ RUN     pip install numpy scipy scikit-learn matplotlib astropy &&\
 	pip install astroML astroML_addons
 
 # Change the default work directory to "/root" inside the container.
-WORKDIR /root
+WORKDIR	/root
+
+#==============================================================================
+# Install Jupyter and other visualization packages
+RUN	pip install jupyter ipywidgets &&\
+	jupyter nbextension enable --py --sys-prefix widgetsnbextension
+
+# By default we start a Jupyter Notebook
+ADD     notebook.sh /
+CMD     /notebook.sh
+
+# To use Jupyter Notebook, run the following from the host:
+#
+#       docker run --rm -p8888:8888 -it chanchikwan/astroML
+#
+# then use a browser to open
+#
+#       http://[localhost or ip of remote machine]:8888?token=1234...
