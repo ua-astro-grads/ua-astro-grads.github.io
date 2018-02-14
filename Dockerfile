@@ -27,8 +27,14 @@ CMD     /notebook.sh
 
 # To use Jupyter Notebook, run the following from the host:
 #
-#       docker run --rm -p8888:8888 -it chanchikwan/astroML
+#       docker run -it --rm -p8888:8888 chanchikwan/astroml
+#                             ^dst ^src
 #
 # then use a browser to open
 #
 #       http://[localhost or ip of remote machine]:8888?token=1234...
+#
+# You can use ssh to tunnel the remote notebook to your local machine
+#
+#       ssh -NfL localhost:8888:localhost:8888 server
+#                          ^dst           ^src
