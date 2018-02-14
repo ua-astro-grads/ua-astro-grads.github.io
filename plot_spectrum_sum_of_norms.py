@@ -7,6 +7,9 @@ Fitting a spectrum with a linear sum of gaussians.
 # Author: Jake VanderPlas <vanderplas@astro.washington.edu>
 # License: BSD
 #   The figure is an example from astroML: see http://astroML.github.com
+import matplotlib
+matplotlib.use('Agg')
+
 from matplotlib import pyplot as plt
 from astroML.datasets import fetch_vega_spectrum
 from astroML.sum_of_norms import sum_of_norms, norm
@@ -43,4 +46,4 @@ for n_gaussians in (10, 50, 100):
              ha='right', va='top', transform=plt.gca().transAxes)
     plt.title("Fit to a Spectrum with a Sum of %i Gaussians" % n_gaussians)
 
-plt.show()
+plt.savefig("spectrum_sum_of_norms.pdf")
