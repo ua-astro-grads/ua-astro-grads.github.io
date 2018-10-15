@@ -8,6 +8,6 @@ Announcements are distributed via the `astro-code-coffee` [mailing list](https:/
 
 **Speaker:** Rachel Smullen
 
-**Time:** Tuesday October 16, 2018 from 2-3 P.M.
+**Time:** Tuesday October 23, 2018 from 2-3 P.M.
 
 **Location:** Steward Observatory room 450 [(where?)](https://maps.arizona.edu/room/?room=0450&bldg=0065.01)
