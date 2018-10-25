@@ -4,10 +4,10 @@ Announcements are distributed via the `astro-code-coffee` [mailing list](https:/
 
 ## Next meeting
 
-**Topic:** Accelerating scientific computations with OpenACC
+**Topic:** TBD
 
-**Speaker:** Rachel Smullen
+**Speaker:** TBD
 
-**Time:** Tuesday October 23, 2018 from 2-3 P.M.
+**Time:** Tuesday November 20, 2018 from 2-3 P.M.
 
 **Location:** Steward Observatory room 450 [(where?)](https://maps.arizona.edu/room/?room=0450&bldg=0065.01)
