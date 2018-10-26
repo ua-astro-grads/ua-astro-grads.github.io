@@ -1,6 +1,6 @@
 ---
 author: "Rachel Smullen"
-title: "How to accelerate your code in <10 lines"
+title: "How to accelerate your code in under 10 lines"
 ---
 
 Rachel Smullen gave a talk on using [OpenACC](https://www.openacc.org), a system of hints for your C, C++, and Fortran code that enables a compiler to move computations to the GPU or other accelerators. She attended the [International High Performance Computing Summer School](http://ihpcss.org) last summer, which covered OpenACC, and was kind enough to share what she learned with all of us.
