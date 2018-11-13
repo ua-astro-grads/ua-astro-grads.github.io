@@ -4,10 +4,10 @@ Announcements are distributed via the `astro-code-coffee` [mailing list](https:/
 
 ## Next meeting
 
-**Topic:** Using `git` and GitHub
+**Topic:** TBD
 
-**Speaker:** Joseph Long
+**Speaker:** TBD
 
-**Time:** Tuesday November 13, 2018 from 2-3 P.M.
+**Time:** TBD
 
 **Location:** Steward Observatory room 450 [(where?)](https://maps.arizona.edu/room/?room=0450&bldg=0065.01)
