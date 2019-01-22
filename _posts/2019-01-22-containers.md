@@ -5,7 +5,7 @@ title: "Using containers to move computations to HPC and the Cloud"
 
 Containers allow you to bundle up a program or script and all the packages and libraries it uses in a single archive that runs on any computer with a container runtime like Docker or Singularity (including the University HPC systems).
 
-To follow [the slides](/downloads/2017-18/containers/slides.pdf), you will need to create a DockerHub account and install Docker Desktop for your platform:
+To follow [the slides](/downloads/2018-19/containers/slides.pdf), you will need to create a DockerHub account and install Docker Desktop for your platform:
 
 - Mac: https://store.docker.com/editions/community/docker-ce-desktop-mac
 - Windows: https://store.docker.com/editions/community/docker-ce-desktop-windows
