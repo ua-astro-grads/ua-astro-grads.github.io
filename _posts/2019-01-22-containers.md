@@ -7,9 +7,9 @@ Containers allow you to bundle up a program or script and all the packages and l
 
 To follow [the slides](/downloads/2018-19/containers/slides.pdf), you will need to create a DockerHub account and install Docker Desktop for your platform:
 
-- Mac: https://store.docker.com/editions/community/docker-ce-desktop-mac
-- Windows: https://store.docker.com/editions/community/docker-ce-desktop-windows
-- Linux: consult the Manual for your distribution (e.g. for Ubuntu, https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce )
+- [Download for macOS](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+- [Download for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
+- Linux: consult the Manual for your distribution (e.g. [instructions for Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce))
 
 The full text of the example Dockerfile we built is below:
 
