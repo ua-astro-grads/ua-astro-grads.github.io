@@ -4,10 +4,10 @@ Announcements are distributed via the `astro-code-coffee` [mailing list](https:/
 
 ## Next meeting
 
-**Topic:** TBD
+**Topic:** Interactive data visualizations
 
-**Speaker:** TBD
+**Speaker:** Peter Senchyna
 
-**Time:** TBD
+**Time:** February 19, 2019 at 2:00 PM
 
 **Location:** Steward Observatory room 450 [(where?)](https://maps.arizona.edu/room/?room=0450&bldg=0065.01)
