@@ -4,10 +4,10 @@ Announcements are distributed via the `astro-code-coffee` [mailing list](https:/
 
 ## Next meeting
 
-**Topic:** Interactive data visualizations
+**Topic:** Best practices for developing and maintaining software
 
-**Speaker:** Peter Senchyna
+**Speaker:** Gabriele Bozzola
 
-**Time:** February 19, 2019 at 2:00 PM
+**Time:** March 19, 2019 at 2:00 PM
 
 **Location:** Steward Observatory room 450 [(where?)](https://maps.arizona.edu/room/?room=0450&bldg=0065.01)
