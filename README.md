@@ -4,10 +4,10 @@ Announcements are distributed via the `astro-code-coffee` [mailing list](https:/
 
 ## Next meeting
 
-**Topic:** Introductory C programming
+**Topic:** TBD
 
-**Speaker:** Prof. Dimitrios Psaltis
+**Speaker:** TBD
 
-**Time:** April 16, 2019 at 2:00 PM
+**Time:** TBD
 
-**Location:** Steward Observatory room 450 [(where?)](https://maps.arizona.edu/room/?room=0450&bldg=0065.01)
+**Location:** TBD
